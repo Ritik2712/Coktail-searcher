@@ -1,0 +1,31 @@
+*{
+  margin: 2px;
+  padding: 2px;
+  box-sizing:border-box ;
+}
+
+.dispay{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.card{
+  margin: 20px;
+  box-shadow: 13px 14px 20px black;
+}
+
+
+.body span{
+  background-color: rgb(160, 160, 160);
+  border-radius: 30px;
+  padding: 5px 10px;
+  display: inline-block;
+  margin: 15px 20px;
+}
+
+
+
+img{
+  height: 300px;
+  width: 100%;
+}
